@@ -25,7 +25,7 @@ class P{
 class Q : public P{
 	public:
 		void toFahrenheit(){
-			cout<<" Celsius is "<<1.8×celsius+32<<" Fahrenheit "<<endl;
+			cout<<" Celsius is "<<1.8*celsius+32<<" Fahrenheit "<<endl;
 		}
 };
 class R : public Q{
